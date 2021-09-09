@@ -2,5 +2,5 @@
 
 
 ```bash
-/bin/bash -c "$(curl -sL https://raw.githubusercontent.com/harshH-addweb/shell-script/main/git/git-ssh.sh)"
+/bin/bash -c "$(curl -sL https://raw.githubusercontent.com/harsh896/shell-script/master/git/git-ssh.sh)"
 ```
